@@ -343,5 +343,62 @@ Além das minhas responsabilidades de P.O., contribuí tecnicamente com o time d
 | **Organização** | Mantive o backlog, as user stories e a documentação do projeto sempre organizados e atualizados. |
 
 <br>
+Vídeo do Projeto GeoRah:
+https://github.com/user-attachments/assets/cdc611a4-533e-4736-80cd-95f36dc73971
 
 ---
+<span id="ra-vision">
+
+## 🤖 Projeto: Ra Vision – Gerenciamento Inteligente de Regras de Negócio – 2026-1
+
+## 🏫 Empresa Parceira
+O projeto foi desenvolvido em parceria com a **Dom Rock** como parte do curso de **Análise e Desenvolvimento de Sistemas** da **FATEC São José dos Campos – Prof. Jessen Vidal**.
+
+## ❗ Problema
+Empresas lidam com regras de negócio altamente dinâmicas (campanhas, comissões, bônus sazonais) que mudam constantemente. A falta de centralização e documentação formal dessas regras gera conflitos operacionais, falta de rastreabilidade e erros manuais complexos no fechamento de folhas de pagamento e comissionamentos.
+
+## 💡 Solução Entregue
+A equipe desenvolveu o **Ra Vision**, uma plataforma web inteligente que centraliza o gerenciamento, versionamento e simulação de regras empresariais. O sistema conta com um **motor de processamento de regras trabalhistas e comissões**, dashboards para o RH e um **assistente virtual integrado com IA Generativa (LLM)**, capaz de explicar passo a passo a matemática por trás dos cálculos de cada funcionário, garantindo total transparência e auditoria.
+
+## 🔗 GIT
+📂 [Repositório no GitHub – Ra Vision (ThothTech-Fatec)](https://github.com/ThothTech-Fatec/Ra-Vision) *(Ajuste o link caso o repositório use outro padrão de nome)*
+
+## 🧰 Tecnologias Utilizadas
+- Java / SpringBoot
+- TypeScript / Vue.js
+- PostgreSQL
+- LangChain / Orquestradores de LLM
+- Docker
+- GitHub
+
+---
+
+## 👨‍💻 Contribuições Pessoais
+
+Atuei como **Desenvolvedor Full Stack e de IA** no projeto, participando ativamente desde a concepção do banco de dados até a entrega das interfaces inteligentes.
+
+No **back-end (SpringBoot / Java)**, colaborei na estruturação das entidades e na modelagem do banco de dados relacional **PostgreSQL**, garantindo a persistência correta do histórico de processamento e das regras de comissão. Além disso, auxiliei na integração do sistema com a API de **IA Generativa**, permitindo que o chat consumisse os dados processados para gerar as explicações matemáticas personalizadas de forma assertiva.
+
+No **front-end (Vue.js / TypeScript)**, atuei no desenvolvimento de componentes para a interface do usuário, focando na construção das telas de interação do chat com o assistente virtual e nas telas de upload e validação de planilhas de competência.
+
+## 🧩 Hard Skills
+
+| Habilidade | Descrição | Nível de Proficiência |
+|-------------|------------|-----------------------|
+| **Vue.js / TypeScript** | Criação de interfaces reativas e integração com APIs. | Sei fazer com autonomia |
+| **SpringBoot / Java** | Desenvolvimento de endpoints e regras de negócio no backend. | Sei fazer com autonomia |
+| **PostgreSQL** | Modelagem de dados e histórico de versionamento de regras. | Sei fazer com autonomia |
+| **Integração com LLM / LangChain** | Conexão do motor de IA para leitura e explicação de dados estruturados. | Sei fazer com apoio |
+
+## 💬 Soft Skills
+
+| Soft Skill | Aplicação Prática |
+|-------------|-------------------|
+| **Adaptabilidade** | Rápida curva de aprendizado para transicionar do ecossistema de projetos anteriores (React/Node/Python) para a nova stack padrão (**Vue.js e SpringBoot**). |
+| **Resolução de Problemas** | Atuação direta no mapeamento de lógica para converter cálculos matemáticos complexos de comissão em prompts interpretáveis pela IA. |
+| **Trabalho em Equipe** | Cooperação contínua com o Scrum Master, P.O. e demais desenvolvedores para garantir que as entregas estivessem alinhadas aos rigorosos critérios de DoD e DoR da equipe. |
+
+<br>
+
+Vídeo do Projeto RaVision:
+https://drive.google.com/drive/u/1/folders/1cJFUBoTLpJ0acxdR6Bzd692g87OjfNlD
