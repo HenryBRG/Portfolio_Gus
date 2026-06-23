@@ -6,7 +6,9 @@
 
 #  Gustavo Henrique Braga
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC São José dos Campos – Prof. Jessen Vidal**, com foco em **Desenvolvimento de Software** e **Infraestrutura de TI**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC São José dos Campos – Prof. Jessen Vidal**, com foco em **Desenvolvimento de Software** e **Infraestrutura de TI**. 
+
+Minha motivação para ingressar na instituição surgiu do meu desejo de construir uma carreira voltada para o ramo de **Infraestrutura**. Por indicação de um amigo que conheci online, decidi pesquisar sobre a FATEC e, ao analisar detalhadamente a grade curricular, me interessei muito pela proposta e pelas disciplinas oferecidas, o que me deu a certeza de que era o caminho certo para o meu desenvolvimento.
 
 Atualmente, atuo como **Estagiário de Informática** no **Cephas** (Colégio de Educação Profissional Hélio Augusto de Souza), onde integro a divisão de tecnologia. Minhas responsabilidades abrangem tanto a **manutenção da infraestrutura** quanto o **desenvolvimento de sistemas internos**, focados em otimizar processos e melhorar a eficiência da instituição.
 
