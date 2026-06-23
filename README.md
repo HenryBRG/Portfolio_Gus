@@ -110,9 +110,9 @@ No front-end, fui responsável por implementar este formulário usando **HTML** 
 
 | Soft Skill | Aplicação Prática |
 |-------------|-------------------|
-| **Comunicação** | Alinhamento constante com a equipe para integrar as funcionalidades do back-end com o front-end. |
-| **Organização** | Gerenciamento das minhas tarefas para garantir que as entregas do formulário fossem feitas no prazo da sprint. |
-| **Trabalho em Equipe** | Colaboração direta com os outros membros do time para assegurar a coesão visual e funcional do site. |
+| **Comunicação Eficaz** | Durante o desenvolvimento do formulário avaliativo, surgiram desafios de integração entre o *backend* (Flask/Python) e o *frontend* (HTML/CSS) devido a diferentes interpretações das especificações. Eu proativamente agendei reuniões com a equipe de *frontend* e *backend* para alinhar as expectativas, documentar os *endpoints* da API e garantir que a troca de dados ocorresse sem falhas, resultando em uma integração suave e funcionalidade correta do formulário. |
+| **Organização e Gerenciamento de Tempo** | Com prazos apertados para a entrega da *sprint*, fui responsável por desenvolver o formulário interativo, uma funcionalidade central do projeto. Utilizei técnicas de gerenciamento de tempo, como a divisão da tarefa em subtarefas menores (design do formulário, lógica de *backend*, integração *frontend*, testes), e priorizei as atividades críticas para garantir que o formulário estivesse pronto e testado antes do prazo final, evitando atrasos para a equipe. |
+| **Trabalho em Equipe e Colaboração** | A funcionalidade do formulário exigia uma colaboração contínua com os designers para garantir a coesão visual e com outros desenvolvedores para a integração com outras partes do site. Colaborei ativamente, participando de revisões de código e oferecendo suporte para resolver problemas de compatibilidade, assegurando que o formulário se encaixasse perfeitamente na arquitetura geral da aplicação e atendesse aos requisitos de usabilidade. |
 
 <br>
 
@@ -166,10 +166,11 @@ Além das responsabilidades de gestão, participei ativamente das decisões téc
 ## 💬 Soft Skills
 
 | Soft Skill | Aplicação Prática |
-|-------------|-------------------|
-| **Liderança** | Conduzi a equipe, motivei os membros e garanti-o alinhamento e foco nas entregas de cada sprint. |
-| **Pensamento Analítico** | Analisei diferentes opções de LLMs para definir a mais viável e com melhor custo-benefício para o projeto. |
-| **Resolução de Problemas** | Atuei como facilitador para remover impedimentos técnicos e de comunicação que surgiam durante as sprints. |
+|:-----------|:--------------------------------------|
+| **Liderança e Facilitação** | Como Scrum Master, liderei as cerimônias de *sprint*, garantindo que a equipe estivesse focada nos objetivos. Em um momento de desmotivação da equipe devido a um problema técnico complexo na integração do LLM, organizei uma sessão de *brainstorming* e facilitei a discussão, incentivando a colaboração e a busca por soluções inovadoras, o que resultou na superação do desafio e na retomada do engajamento do time. |
+| **Pensamento Analítico e Tomada de Decisão** | A escolha do LLM para o chatbot era crucial para o sucesso do projeto. Realizei uma análise comparativa de diferentes modelos, considerando fatores como desempenho, custo, facilidade de integração e requisitos de hardware. Apresentei os prós e contras de cada opção à equipe e ao professor, justificando a escolha final com base em dados e projeções, demonstrando minha capacidade de tomar decisões estratégicas e fundamentadas. |
+| **Resolução de Problemas e Mediação** | Durante o desenvolvimento, surgiram conflitos entre membros da equipe sobre a melhor abordagem para o tratamento de erros nas consultas SQL geradas pelo LLM. Atuei como mediador, ouvindo as diferentes perspectivas, propondo um modelo de tratamento de exceções que atendia às preocupações de ambos os lados e facilitando um consenso. Minha intervenção evitou atrasos e manteve a harmonia da equipe. |
+| **Comunicação Interpessoal** | Fui o ponto focal nas reuniões com o professor e outros Scrum Masters. Comuniquei o progresso do projeto, os desafios enfrentados e as soluções propostas de forma clara e concisa, garantindo que todas as partes interessadas estivessem bem informadas e alinhadas com o andamento do projeto. |
 
 <br>
 
@@ -221,9 +222,9 @@ Minhas responsabilidades incluíam o desenvolvimento de **componentes em React c
 
 | Soft Skill | Aplicação Prática |
 |-------------|-------------------|
-| **Trabalho em Equipe** | Colaboração direta com o time para integrar as interfaces (front) com a lógica de negócios (back). |
-| **Atenção aos Detalhes** | Garanti a consistência dos dados desde o banco até a exibição no dashboard. |
-| **Adaptabilidade** | Atuei em diferentes frentes do projeto (front-end e back-end) conforme a necessidade da sprint. |
+| **Trabalho em Equipe e Sinergia** | No projeto Maat-View, a integração entre o *frontend* (dashboards em React) e o *backend* (dados MySQL) era constante. Colaborei ativamente com a equipe, participando de sessões de pareamento para resolver problemas de comunicação entre as camadas e garantir que as visualizações de dados no *dashboard* refletissem com precisão as informações do banco de dados. Essa sinergia foi crucial para a entrega de uma solução coesa e funcional. |
+| **Atenção aos Detalhes e Qualidade** | A precisão dos dados nos *dashboards* era fundamental para o Maat-View. Demonstrei atenção meticulosa aos detalhes ao implementar a lógica de exibição, garantindo que cada filtro, cálculo e representação gráfica estivesse correto e consistente com os dados brutos do MySQL. Realizei testes exaustivos para identificar e corrigir pequenas inconsistências, assegurando a confiabilidade das informações apresentadas aos usuários. |
+| **Adaptabilidade e Flexibilidade** | Como Desenvolvedor Full Stack, precisei transitar entre diferentes tecnologias e responsabilidades (React, TypeScript, MySQL). Em uma *sprint*, a equipe enfrentou um gargalo no *backend*, e prontamente me adaptei, dedicando mais tempo à otimização de consultas SQL e à modelagem do banco de dados, mesmo tendo inicialmente um foco maior no *frontend*. Essa flexibilidade permitiu que a equipe superasse o desafio e mantivesse o cronograma. |
 
 <br>
 <div align="center">
@@ -278,9 +279,9 @@ No front-end, que foi meu foco principal de implementação, trabalhei no **dese
 
 | Soft Skill | Aplicação Prática |
 |-------------|-------------------|
-| **Trabalho em Equipe** | Colaborei de perto com outros desenvolvedores para integrar o front-end às APIs e ao banco de dados. |
-| **Comunicação** | Mantive um alinhamento claro sobre o design da interface e a estrutura do banco de dados. |
-| **Resolução de Problemas** | Atuei na depuração e correção de bugs durante a integração das funcionalidades. |
+| **Trabalho em Equipe e Integração** | No Project Gestum, a integração entre o *frontend* e o *backend* era fundamental para o funcionamento do sistema. Colaborei estreitamente com outros desenvolvedores, garantindo que as APIs desenvolvidas no *backend* fossem consumidas corretamente pelas interfaces em React. Participei ativamente de sessões de *code review* e *pair programming*, facilitando a resolução de conflitos e assegurando a compatibilidade entre as diferentes partes do sistema. |
+| **Comunicação Clara e Concisa** | Fui responsável pela arquitetura do banco de dados e pelo desenvolvimento de interfaces. Para garantir que a estrutura do banco de dados atendesse às necessidades do *frontend* e que as interfaces fossem implementadas conforme o esperado, mantive uma comunicação constante e transparente com a equipe. Através de diagramas, documentação e discussões técnicas, assegurei que todos os membros tivessem um entendimento claro das decisões de design e implementação. |
+| **Resolução de Problemas e Depuração** | Durante a fase de integração do Project Gestum, surgiram diversos *bugs* relacionados à comunicação entre o *frontend* e o *backend*, bem como inconsistências na exibição de dados. Demonstrei forte habilidade em resolução de problemas, utilizando ferramentas de depuração e análise de logs para identificar a causa raiz dos problemas. Propus e implementei soluções eficazes, garantindo a estabilidade e a funcionalidade do sistema. |
 
 <br>
 <div align="center">
@@ -338,9 +339,10 @@ Além das minhas responsabilidades de P.O., contribuí tecnicamente com o time d
 
 | Soft Skill | Aplicação Prática |
 |-------------|-------------------|
-| **Liderança e Visão de Produto** | Guiei a equipe na direção correta, definindo prioridades claras para maximizar a entrega de valor. |
-| **Comunicação (Cliente/Equipe)** | Traduzi as necessidades do cliente em tarefas técnicas acionáveis para os desenvolvedores. |
-| **Organização** | Mantive o backlog, as user stories e a documentação do projeto sempre organizados e atualizados. |
+| **Liderança e Visão Estratégica** | Como Product Owner do GeoRah, fui fundamental para guiar a equipe no desenvolvimento de um aplicativo complexo para gestão rural. Em um momento em que a equipe estava dividida sobre a priorização de funcionalidades (mapas interativos vs. alertas em tempo real), utilizei minha visão estratégica para demonstrar como a integração de ambas as funcionalidades traria maior valor ao produtor rural, alinhando a equipe e garantindo que o produto final atendesse às necessidades do mercado. |
+| **Comunicação e Negociação (Cliente/Equipe)** | Atuei como a ponte entre os produtores rurais (clientes) e a equipe de desenvolvimento. Traduzi as necessidades complexas dos clientes em *User Stories* claras e acionáveis para os desenvolvedores. Em uma situação onde o cliente solicitou uma funcionalidade inviável dentro do prazo, negociei habilmente, apresentando alternativas que entregavam valor similar e eram tecnicamente viáveis, mantendo a satisfação do cliente e o cronograma do projeto. |
+| **Organização e Gestão de Backlog** | A gestão do *Product Backlog* do GeoRah era uma tarefa desafiadora devido à quantidade de requisitos e à complexidade do domínio rural. Demonstrei excepcional organização ao priorizar as *User Stories*, detalhar os critérios de aceitação e manter o *backlog* sempre atualizado e transparente para toda a equipe. Essa organização foi crucial para que a equipe pudesse focar nas entregas mais importantes e manter o ritmo de desenvolvimento. |
+| **Pensamento Crítico e Resolução de Problemas** | Além das responsabilidades de P.O., contribuí tecnicamente na melhoria do fluxo de autenticação. Ao identificar um problema de segurança ou usabilidade no processo de login, apliquei meu pensamento crítico para analisar a causa raiz e propus uma solução técnica eficaz que não apenas corrigiu o problema, mas também aprimorou a experiência do usuário, demonstrando minha capacidade de resolver problemas tanto em nível estratégico quanto técnico. |
 
 <br>
 Vídeo do Projeto GeoRah:
@@ -394,9 +396,10 @@ No **front-end (Vue.js / TypeScript)**, atuei no desenvolvimento de componentes 
 
 | Soft Skill | Aplicação Prática |
 |-------------|-------------------|
-| **Adaptabilidade** | Rápida curva de aprendizado para transicionar do ecossistema de projetos anteriores (React/Node/Python) para a nova stack padrão (**Vue.js e SpringBoot**). |
-| **Resolução de Problemas** | Atuação direta no mapeamento de lógica para converter cálculos matemáticos complexos de comissão em prompts interpretáveis pela IA. |
-| **Trabalho em Equipe** | Cooperação contínua com o Scrum Master, P.O. e demais desenvolvedores para garantir que as entregas estivessem alinhadas aos rigorosos critérios de DoD e DoR da equipe. |
+| **Adaptabilidade e Aprendizado Contínuo** | No projeto Ra Vision, demonstrei uma notável adaptabilidade ao transicionar rapidamente de um ecossistema de desenvolvimento familiar (React/Node/Python) para uma nova *stack* tecnológica (Vue.js e SpringBoot). Investi tempo em autoaprendizagem e colaborei ativamente com a equipe para dominar as novas ferramentas, garantindo que minhas contribuições fossem eficazes e que o projeto não sofresse atrasos devido à mudança de tecnologia. |
+| **Resolução de Problemas Complexos** | O coração do Ra Vision era o motor de processamento de regras trabalhistas e comissões, que exigia a conversão de cálculos matemáticos complexos em *prompts* interpretáveis pela IA. Atuei diretamente nesse desafio, aplicando minha capacidade de resolução de problemas para mapear a lógica de negócios, otimizar os *prompts* e garantir que a IA gerasse explicações precisas e transparentes, superando uma das maiores complexidades técnicas do projeto. |
+| **Trabalho em Equipe e Alinhamento Técnico** | A complexidade do Ra Vision exigia uma colaboração intensa entre desenvolvedores de *frontend*, *backend* e especialistas em IA. Trabalhei em estreita colaboração com o Scrum Master, P.O. e outros desenvolvedores, participando de discussões técnicas aprofundadas para garantir que as entregas estivessem alinhadas aos rigorosos critérios de *Definition of Done* (DoD) e *Definition of Ready* (DoR). Minha cooperação foi fundamental para a coesão e o sucesso do projeto. |
+| **Pensamento Sistêmico** | Ao modelar o banco de dados PostgreSQL e integrar a IA Generativa, demonstrei um pensamento sistêmico, compreendendo como cada componente do sistema (banco de dados, *backend*, *frontend*, IA) interagia e impactava o todo. Projetei soluções que não apenas resolviam o problema imediato, mas também garantiam a escalabilidade, a manutenibilidade e a performance geral da plataforma. |
 
 <br>
 
